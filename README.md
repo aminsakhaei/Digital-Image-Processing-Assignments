@@ -4,7 +4,7 @@ The descriptions of questions and reports are written in Farsi (Persian).
 
 ## Table of Contents
 
-1. [Homework 0: Introduction to python and required tools](homework2/)
+1. [Homework 0: Introduction to python and required tools](HW0/)
 2. [Homework 1: Introduction to OpenCV](homework2/)
 3. [Homework 2: Intensity Transformations and Spatial Filtering](homework3/)
 4. [Homework 3: Image Processing in the Frequency Domain](homework3/)
