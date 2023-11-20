@@ -1,4 +1,4 @@
-# Image-Processing-Course-Assignments-Fall2020
+# Digital-Image-Processing-Assignments
 This repository contains all the homework assignments and projects completed during the course, implemented in Python. The course was conducted under the supervision of Dr. Azarnoosh in fall 2020.
 The descriptions of questions and reports are written in Farsi (Persian).
 
